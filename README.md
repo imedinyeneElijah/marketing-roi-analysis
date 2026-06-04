@@ -1,5 +1,8 @@
 # marketing-roi-analysis
 Simple Linear Regression project using Python
+## Environment Setup Instructions
+```bash
+pip install pandas seaborn statsmodels jupyter matplotlib
 # Marketing ROI Analysis Using Simple Linear Regression
 
 ## Project Overview
